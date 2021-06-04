@@ -1,1 +1,1 @@
-worker: python banker.py
+worker: python banker.py $PORT
